@@ -39,7 +39,7 @@ The model could determine appropriate measures to cope with the haze problem in 
 - STEP 4 : **Create App** (Desige and Develop on Android studio)
 - STEP 5 : **Connect server** (Database with Android studio and ArcGis Server with Android)
 > [!NOTE]
-> Steps 4-5 will be included in the content of the GitHub repository: [https://github.com/m/AirCity-FinalProject.]
+> Steps 4-5 will be included in the content of the GitHub repository: <a href="https://github.com/mmaitty01/FinalProject_CityAir_App">App Part</a>
 
 
 
